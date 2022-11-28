@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Etiya-Akademi-PostgreSql.iml" filepath="$PROJECT_DIR$/.idea/Etiya-Akademi-PostgreSql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pair4-sqlQuery-2811/pair4-sqlQuery-2811.iml" filepath="$PROJECT_DIR$/pair4-sqlQuery-2811/pair4-sqlQuery-2811.iml" />
     </modules>
   </component>
 </project>
