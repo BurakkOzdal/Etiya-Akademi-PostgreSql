@@ -29,6 +29,7 @@ values ('Mouse', 500,20)`
 between 100 and 400`
 
 Fiyat aralığı 100 ile 400 olan ürünler
+
 ![products-betwenn](product-between.png)
 
 > Birden fazla 'Where' işlemini tek seferde yapmak;
